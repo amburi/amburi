@@ -2,7 +2,7 @@
 
 **`Senior Software Engineer`**
 
-I'm a Senior Software Engineer with over 14 years of experience. I work on the backend using Node, PHP, and Java, and on the frontend with Angular and React. I enjoy building distributed systems, creating microservices, and working with AWS Cloud. I’m passionate about system design, UI/UX, and always improving code quality. I also like mentoring others and working with teams around the world to create great software.
+I have over 14 years of experience. I work on the backend using Node, PHP, and Java and on the frontend with Angular and React. I enjoy building distributed systems, creating microservices, and working with AWS Cloud. I am passionate about system design and always strive to improve code quality. I also enjoy mentoring others and working with teams around the world to create great software.
 
 ## Languages & Tools
 
