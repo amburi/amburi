@@ -1,16 +1,22 @@
+<img src="Grey Minimalist Business Linkedin Banner.png">
+
 # Amburi Roy
 
 I'm a Senior Software Engineer with over 14 years of experience. I work on the backend using Node, PHP, and Java, and on the frontend with Angular and React. I enjoy building distributed systems, creating microservices, and working with AWS Cloud. I’m passionate about system design, UI/UX, and always improving code quality. I also like mentoring others and working with teams around the world to create great software.
 
-## Skills
+## Tech Stack
 
 - PHP
 - Node
 - Java
-- System Design
+- Angular
+- React
+- AWS
 
+---
 
-Pronouns: She/Her 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amburi&show_icons=true&count_private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=amburi)  
 
 ---
 
