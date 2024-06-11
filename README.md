@@ -28,6 +28,13 @@ I have over 14 years of experience in Software Development. I work on the backen
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 </p>
 
+## Achievements
+
+<p align="left">
+  <img src="image.jpeg" width="200" />
+  <img src="image-1.jpeg" width="200" />
+</p>
+
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amburi&show_icons=true&count_private=true)  
