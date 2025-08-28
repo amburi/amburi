@@ -45,8 +45,5 @@ I have nearly 2 dacades of experience in Software Engineering. I work on the bac
 ## Find Me
 
 <p align="left"> 
-  <a href="https://www.github.com/amburi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25px" /></a> 
   <a href="https://www.linkedin.com/in/amburi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25px" /></a> 
-  <a href="https://www.dev.to/amburi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="25px" /></a> 
-  <a href="https://www.youtube.com/@TechAmburi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="25px" /></a>
 </p>
