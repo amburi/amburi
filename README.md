@@ -2,11 +2,10 @@
 
 **`Staff Software Engineer`**
 
-I have nearly 2 dacades of experience in Software Engineering. I work on the backend using Node, PHP, and Java; on the frontend, I work with Angular and React. I enjoy building distributed systems, creating microservices, and working with AWS Cloud. I am passionate about system design and always strive to improve code quality. I also enjoy mentoring others and working with teams around the world to create great software.
+I have nearly 2 dacades of experience in Software Engineering. I work on the backend using Java, PHP, and Node; on the frontend, I work with Angular and React. I enjoy building distributed systems, creating microservices, and working with AWS Cloud. I am passionate about system design and always strive to improve code quality. I also enjoy mentoring others and working with teams around the world to create great software.
 
 🔗 **LinkedIn**: [amburi](https://www.linkedin.com/in/amburi/)  
 🔗 **Website**: [amburi.com](https://amburi.com/)  
-🔗 **GitHub**: [amburi](https://github.com/amburi)
 
 ## Tech Stack
 
@@ -35,15 +34,4 @@ I have nearly 2 dacades of experience in Software Engineering. I work on the bac
 <p align="left">
   <img src="image.jpeg" width="200" />
   <img src="image-1.jpeg" width="200" />
-</p>
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amburi&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=amburi)  
-
-## Find Me
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/amburi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25px" /></a> 
 </p>
